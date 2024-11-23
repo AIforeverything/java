@@ -1,0 +1,15 @@
+ 
+1) Write a function that checks whether a given number is prime. Use a loop to test for factors, and return true or false based on the result.
+2 ) Write a function that takes a student's score as an argument and returns a letter grade based on the following scale:
+90-100: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: F
+Use if-else statements to determine the grade.  
+Q 3   Create a function that takes an integer and returns the sum of its digits. Use a loop to extract each digit and perform  the sum.  
+Q 4    Write a function that takes an integer n and prints the multiplication table for that number (from 1 to 10) using a loop.  
+Q 5  Write a function that takes an array of integers and returns both the maximum and minimum values using a loop. Print the results in the main program.  
+Q 6  Write a function that takes an  10 integer  and returns the sum of all even and odd numbers
+ 
+has context menu
