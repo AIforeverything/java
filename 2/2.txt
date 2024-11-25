@@ -1,0 +1,50 @@
+Array Lab 
+Pgdacnoidaaugust24
+•
+15:34 (Edited 15:40)
+1 wap to take 10 numbers in an array and print count of even and odd number in given array.
+
+
+2 WAP to define two array a and b of size 5  .Add both array elements and store them to third array .
+
+
+3  WAP that add 10 to each element of array and print numbers that are smaller than 50.
+
+4 wap to ask 7 names from user in string array and search for particular name in given array using for loop
+
+5 wap to define an array of integer .Take input from user .count and print numbers greater than 100 .
+
+6 wap to ask password from user and check if it is 123 then print  "allowed access"  else  give 3 total attempt to emter password .
+after 3 attempt print card blocked 
+
+7  Take 20 integer inputs from user and print the following:number of positive numbers
+number of negative numbers
+number of odd numbers
+number of even numbers
+number of 0s.
+
+8 Write a program to search element in array using (linear search and binary search) 
+
+9 wap to check a given number is armstrong or not  i.e. 153 = 1*1*1  + 5*5*5+3*3*3
+
+Q 10 Rajan  went to a movie with his friends in a multiplex theatre and during  break time he bought pizzas, puffs and cool drinks. Consider   the following prices :
+
+Rs.100/pizza
+Rs.20/puffs
+Rs.10/cooldrink
+Generate a bill for What Rajan  has bought.
+
+
+Sample Input 1:
+
+Enter the no of pizzas bought:10
+Enter the no of puffs bought:12
+Enter the no of cool drinks bought:5
+
+Sample Output 1:
+
+Bill Details
+No of pizzas:10
+No of puffs:12
+No of cooldrinks:5
+Total price=1290
