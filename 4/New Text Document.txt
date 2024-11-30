@@ -1,0 +1,32 @@
+package Assignment4;
+import java.util.*;
+ 
+public class Question1 {
+	
+ 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub\
+		Scanner s=new Scanner(System.in);
+		try {
+			System.out.println("X");
+			int x=s.nextInt();
+			System.out.println("Y");
+			int y=s.nextInt();
+			if(x==0 || y==0) {
+				throw new java.lang.ArithmeticException();	
+			}
+				
+		}
+		catch(ArithmeticException r){
+			System.out.println("Error: Division by zero is not allowed.");	
+		}
+		catch(Exception e) {
+			System.out.println("Error: Invalid input. Please enter integers"+e);
+		}
+		finally {
+			System.out.println("code is executed sucessfully");
+			
+		}
+ 
+}
+}
