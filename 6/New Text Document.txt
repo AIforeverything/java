@@ -1,0 +1,21 @@
+Q 1  Wap to define Student class havinf fields like   Rollno , name and marks
+      --define    - constructor  |getter Setter
+
+Q 2 Create another class MyRollnoComparator  and override compare method
+Q 3 Create MainClass and define 5 objects of student class  and store them in TreeSet or Priority Queue
+
+
+
+
+Q 4
+Write a program that accept string as command line argument and generate
+the output in specific way
+
+
+Example if two
+command line argument are wipro and bangolre then the ouput generated should be
+wipro technology banglore 
+
+
+If the argument
+are ABC and Mumbai then output should be ABC technology mumbai
