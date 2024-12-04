@@ -1,0 +1,42 @@
+Q 1  Write a Java program that uses a Predicate to check if a given number is even or odd.
+
+    Create a Predicate<Integer> to test whether a number is even.
+    Use the test() method of Predicate to check if a number is even or odd and print the result.
+    Input: 6
+    Output: "6 is even"
+
+Input: 7
+
+    Output: "7 is odd"
+
+Q  2  Write a Java program that uses a Consumer to print the name of a student in uppercase.
+
+    Create a Consumer<String> to print the name of a student in uppercase.
+    Accept a student name and print it in uppercase.
+    Input: "John Doe"
+    Output: "JOHN DOE"
+
+Q 3   Write a Java program that uses a Predicate to check if a given string contains the letter 'a'.
+
+    Create a Predicate<String> to test whether the string contains the letter 'a' (case-insensitive).
+    Use the test() method of the Predicate interface to check the string.
+    Input: "Apple"
+    Output: "Apple contains the letter 'a'"
+
+Input: "Banana"
+
+    Output: "Banana contains the letter 'a'"
+
+Input: "Cherry"
+
+    Output: "Cherry does not contain the letter 'a'"
+
+Q 4  
+
+    Create a Function<Double, Double> that converts a temperature from Celsius to Fahrenheit using the formula:
+    Fahrenheit = (Celsius * 9/5) + 32
+    Accept a Celsius temperature and print the equivalent Fahrenheit temperature.
+    Input: 25.0
+    Output: "25.0 Celsius is equal to 77.0 Fahrenheit"
+
+Q 5 Write a Java program that uses a Predicate to check if a given number is prime. Create a Predicate<Integer> that returns true if the number is prime, otherwise false. Use the test() method to check whether a number is prime. Example Input/Output: Input: 7 Output: "7 is prime" Input: 10 Output: "10 is not prime"
